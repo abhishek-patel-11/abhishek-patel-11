@@ -41,8 +41,7 @@ I’m a **final-year B.Tech student** specializing in **Computer Science and Cyb
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api? username=abhishekkumarpatel&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)  
+
 
 ---
 
