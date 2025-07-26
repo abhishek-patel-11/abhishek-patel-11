@@ -5,12 +5,12 @@ I’m a **final-year B.Tech student** specializing in **Computer Science and Cyb
 ### 🚀 What I Do:
 - 💻 **Programming Skills:** Python  
 - 🔐 **Cybersecurity & Networking:** OSI Model, TCP/IP, Routing, Switching, Firewalls  
-- 🛠 **Software Development:** OOP, SDLC, CI/CD Pipelines  
-- 🗄️ **Database Management:** MySQL, DBMS  
+- 🛠 **CoreSkills:** OOP, SDLC, CI/CD Pipelines  
+- 🗄️ **Database Management:** SQL, DBMS  
 - 🖥 **System Administration:** System maintenance, troubleshooting, and process optimization  
 - 🔧 **Operating Systems:** Linux, Windows  
 - 📈 **Version Control & Collaboration:** Git, GitHub  
-- 📚 **Currently Learning:** Advanced security protocols, DevOps tools (Jenkins, Docker, Kubernetes)
+- 📚 **Currently Learning:**  DSA  (Advanced security protocols), (DevOps tools Jenkins, Docker, Kubernetes)
 - 👯 **Looking to Collaborate** on Cybersecurity, Networking, and Software Development Projects  
 - 📫 **Let's Connect!** → [Email Me](mailto:abhishekkumarpatel.ac.in2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-patel-917ab3225/)  
 
